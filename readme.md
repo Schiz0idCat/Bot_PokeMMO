@@ -1,1 +1,1 @@
-[readme in english](Others/Readme/readme-en.md) | [readme en español](Others/Readme/readme-es.md)
+[readme in english](Others/readme/readme-en.md) | [readme en español](Others/readme/readme-es.md)
