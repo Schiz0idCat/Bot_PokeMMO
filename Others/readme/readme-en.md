@@ -47,12 +47,10 @@ you have to configure the game in the conditions in which the bot was tested:
 1.- The bot has to be run from the *bot.py* file and by default captures only 30 magikarps.
 
 2.- If you don't want the bot to be in an infinite loop you have to make it start in the lake so that the character starts fishing.
-
-![](..\Photos\lake.png)
+![](https://raw.githubusercontent.com/Schiz0idCat/Bot_PokeMMO/main/Others/Photos/lake.png)
 
 But if you want the bot to be in an infinite loop you have to make it start at the entrance of the Safari Zona (before paying for the entrance).
-
-![](..\Photos\pay.png)
+![](https://raw.githubusercontent.com/Schiz0idCat/Bot_PokeMMO/main/Others/Photos/pay.png)
 
 3.- By default the bot considers that the character moves walking (so make sure that your character doesn't move running).
 
