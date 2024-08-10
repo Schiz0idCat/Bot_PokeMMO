@@ -20,7 +20,7 @@ Finalmente una función para pescar, que se llama así misma iterativamente hast
 En un futuro la idea es ir llenando este archivo de más funciones que nos ayuden a interactuar con el mundo.
 
 ### BOT
-En este archivo se irán almacenando los distintos bots para el juego.
+En este archivo se irán almacenando los distintos bots para el juego, tales como:
 
 #### MagikarpSafariZone.py
 Este bot automatiza la captura de magikarp en la zona safari de Pokemon Rojo Fuego.
@@ -32,4 +32,4 @@ En esta carpeta se almacenan fotos de control, que han sido útiles para testear
 Este archivo contiene funciones que viene bien testear en escenarios controlados para ver cómo se comportan.
 
 ## main.py
-Acá se irán recopilando todos los bots, para tenerlos a fácil acceso. Además se configurarán para poder usar en bucle.
+Acá se irán recopilando todos los bots, para tenerlos a fácil acceso. Además se configurarán para poder usarlos en bucle.
